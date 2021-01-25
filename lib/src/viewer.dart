@@ -4,6 +4,7 @@ import 'package:numberpicker/numberpicker.dart';
 
 /// enum to describe indicator position
 enum IndicatorPosition { topLeft, topRight, bottomLeft, bottomRight }
+int jaja;
 
 /// PDFViewer, a inbuild pdf viewer, you can create your own too.
 /// [document] an instance of `PDFDocument`, document to be loaded
